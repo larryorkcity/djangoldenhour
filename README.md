@@ -1,6 +1,6 @@
 Build Django Web Framework in local server
 
-## Date Selectingb
+## Date Selecting
 
 ## Web Page Posting
 
